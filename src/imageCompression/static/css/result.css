@@ -1,0 +1,21 @@
+#download {
+    background-color: #004A7C;
+    padding: 5px;
+    color: white;
+    border: 2px solid #004A7C;
+}
+
+#download:hover {
+    background-color: white;
+    color: #004A7C;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: #004A7C;
+    padding: 10px 0; 
+}
